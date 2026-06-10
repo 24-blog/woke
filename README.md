@@ -1,7 +1,3 @@
-Preview<br>
-https://24-blog.github.io/woke/
-
-
 ⚠️COPYRIGHT<br>
 The source code of this repository is licensed under MIT.
 
