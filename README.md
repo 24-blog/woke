@@ -1,6 +1,7 @@
-⚠️COPYRIGHT<br>
-The source code of this repository is licensed under MIT.
+[![License](https://img.shields.io/github/license/24-blog/woke)](LICENSE)
 
+
+⚠️COPYRIGHT<br>
 Textual commentary written by the repository owner is
 licensed under CC BY-NC-ND 4.0.
 
