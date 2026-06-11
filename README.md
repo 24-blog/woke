@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/24-blog/woke/)](LICENSE)
+[![License](https://img.shields.io/github/license/24-blog/woke)](LICENSE)
 
 
 ⚠️COPYRIGHT<br>
