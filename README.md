@@ -7,5 +7,5 @@ licensed under CC BY-NC-ND 4.0.
 
 
 > [!TIP]
-> [This code is an expansion of my earlier CodePen work.](https://codepen.io/24blog/full/NPbdLBR)
- / May 18, 2026
+>This code was originally created by me on [CodePen.](https://codepen.io/24blog/full/NPbdLBR)
+ on May 18, 2026, and was published there under the MIT License.
